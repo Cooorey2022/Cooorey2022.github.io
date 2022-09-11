@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zedong Zhang"
-description              : "Research assistant at NUS with a master degree. Currently seeking a position of PhD candidate. Research interest includes Robotics and AI.
-repository               : "Cooorey2022/Cooorey2022.github.io"
+title                    : "Zhibo Zhang"
+description              : "A graduate master student majoring in Electrical and Computer Engineering. Focusing on Explainable AI, Trustworthy AI and cyber security "
+repository               : "qiuyuezhibo/qiuyuezhibo.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zedong Zhang"
+  name             : "Zhibo Zhang"
   avatar           : "images/Zhibo Zhang.jpg"
-  bio              : "National University of Singapore, RA"
-  location         : "Shanghai， China"
+  bio              : "Khalifa University, master student"
+  location         : "Abu Dhabi， UAE"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=Cb9-xKcAAAAJ&hl"
-  email            : "zedong.zhang@u.nus.edu"
+  email            : "qiuyuezhibo@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Cooorey2022"
+  github           : "qiuyuezhibo"
   google_plus      :
   keybase          :
   instagram        :
