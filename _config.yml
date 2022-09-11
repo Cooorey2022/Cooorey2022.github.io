@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zedong Zhang"
-  avatar           : "images/Zhibo Zhang.jpg"
+  avatar           : "images/avarta.jpg"
   bio              : "National University of Singapore, RA"
   location         : "Shanghai， China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=Cb9-xKcAAAAJ&hl"
-  email            : "qiuyuezhibo@gmail.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=SdG2e9UAAAAJ"
+  email            : "zedong.zhang@u.nus.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "qiuyuezhibo"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : "zhibo-zhang-2171b6220"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0003-1186-4990"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
