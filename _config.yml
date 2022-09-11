@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zedong Zhang"
-description              : "A graduate master student majoring in Electrical and Computer Engineering. Focusing on Explainable AI, Trustworthy AI and cyber security "
+description              : "Research assistant at NUS with a master degree. Currently seeking a position of PhD candidate. Research interest includes Robotics and AI."
 repository               : "Cooorey2022/Cooorey2022.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhibo Zhang"
+  name             : "Zedong Zhang"
   avatar           : "images/Zhibo Zhang.jpg"
-  bio              : "Khalifa University, master student"
-  location         : "Abu Dhabi， UAE"
+  bio              : "National University of Singapore, RA"
+  location         : "Shanghai， China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=Cb9-xKcAAAAJ&hl"
