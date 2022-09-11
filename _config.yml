@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zedong Zhang"
-  avatar           : "images/avarta.jpg"
+  avatar           : "images/avatar.jpg"
   bio              : "National University of Singapore, RA"
   location         : "Shanghai， China"
   employer         :
