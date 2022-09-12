@@ -78,38 +78,24 @@ My research experience includes working at the [Centre for Smart Medical Technol
 
 Huxin Gao, **Zedong Zhang**, Liyang Lin, Changsheng Li, Xiao Xiao, Liang Qiu, Xiaoxiao Yang, Ruoyi Hao, Xiuli Zuo, Yanqing Li, Hongliang Ren 
   
-#### IEEE/RSJ IROS 2022
+#### Accepted by IEEE/RSJ IROS 2022
 ### <a href="_pages/GESRsim.pdf" download>PDF📃</a>
 
-
 </div>
 </div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADCIS 2022</div><img src='images/ADCISvisualization.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## [Person Monitoring by Full Body Tracking in Uniform Crowd Environment](https://arxiv.org/ftp/arxiv/papers/2209/2209.01274.pdf) 
-
-**Zhibo Zhang**, Omar Alremeithi, Maryam Almheiri, Marwa Albeshr, Xiaoxiong Zhang, Sajid Javed, Naoufel Werghi
-
-#### [**International Conference on Advances in Data-driven Computing and Intelligent Systems (ADCIS 2022)**](https://www.adcis22.scrs.in/)
-
-### [PDF📃](https://arxiv.org/ftp/arxiv/papers/2208/2208.14937.pdf)  [Project Page🔗](https://github.com/qiuyuezhibo/kandora-and-abaya-uniform-tracking-dataset)
-
-</div>
-</div>
-
-# 🔥 News
-- *2022.08*: 🎉🎉 One paper is accepted by IEEE Access!
-- *2022.08*: 🎉🎉 One paper is accepted by ADCIS 2022!
-- *2021.08*: I arrive in Abu Dhabi, UAE, and start my master's career there!
-- *2021.07*: 👨‍🎓👨‍🎓 I get my bachelor’s degree with honors!
-- *2021.03*: 🎉🎉 I acquire a qualification of postgraduate recommendation, and decide to pursue my master’s degree in Kalifa University!
-- *2020.08*: 🎉🎉 I am awarded outstanding student by NWPU for three consecutive years!
-- *2020.08*: 🥈🥈 I join the National University of Singapore Suzhou Institute as an exchange student and start my Final Year Project for my Bachelor!
 
 # 📝 Submitted Papers
+<div class='paper-box'><div class='paper-box-image'><div></div><img src='images/firl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## A Versatile Agent for Fast Learning From Human Instructor
+
+Yiwen Chen, **Zedong Zhang**, Haofeng Liu, Jiayi Tan, Chee-Meng Chew, Marcelo Ang
+  
+#### Submitted for AAAI 2023
+### [PDF📃](https://arxiv.org/pdf/2203.00251)
+
+
 - *2022.08*: **Explainable Artificial Intelligence to Detect Image Spam Using Convolutional Neural Network** submitted to [**International Conference on Cyber Resilience (ICCR 2022)**](https://iccr.gaftim.com/), under review
 - *2022.08*: **Explainable Artificial Intelligence Applications in Cyber Security: State-of-the-Art in Research** submitted to **IEEE ACCESS**, accepted
 - *2022.07*: **New Late Multi-Modal Fusion Frameworks for Detecting Hybrid Spam E-mail** submitted to [**The 17th International Conference on Information Security Practice and Experience (ISPEC 2022)**](https://ispec2022.ndhu.edu.tw/), under review
