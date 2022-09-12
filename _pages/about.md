@@ -79,7 +79,7 @@ My research experience includes working at the [Centre for Smart Medical Technol
 Huxin Gao, **Zedong Zhang**, Liyang Lin, Changsheng Li, Xiao Xiao, Liang Qiu, Xiaoxiao Yang, Ruoyi Hao, Xiuli Zuo, Yanqing Li, Hongliang Ren 
   
 #### IEEE/RSJ IROS 2022
-### <a href="GESRsim.pdf" download>PDF📃</a>
+### <a href="_pages/GESRsim.pdf" download>PDF📃</a>
 
 
 </div>
