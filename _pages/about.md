@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🔥 About me
+# 🔥 About me 
 
-Welcome to my personal home page! 
+Welcome to my home page! 
 
-My name is Zedong Zhang, a researcher focused on Robotics and AI. I currently work as a part-time research assistant in the National University of Singapore. I am seeking opportunities to continue my study as a Ph.D. candidate. My specific research interests include Robotics and Control, Medical Robots, Surgical Robots, AI, Reinforcement Learning, Life-long Learning, Non-parametric Learning, Offline RL, Human-Robot Collaboration, etc.
+My name is Zedong Zhang, a junior researcher focuses on Robotics and AI. I currently work as a part-time research assistant at the National University of Singapore. I am seeking opportunities to continue my study as a Ph.D. candidate. My specific research interests include Robotics and Control, Medical Robots, Surgical Robots, AI, Reinforcement Learning, Life-long Learning, Non-parametric Learning, Offline RL, Human-Robot Collaboration, etc.
 
-As for my education background, I graduated from [Chongqing University](https://www.cqu.edu.cn/) (project 985) with a B.Eng degree in Mechanical Engineering. In year 4, I participated in an exchange programme to study at the [National University of Singapore (Suzhou) Research Institute](http://en.nusri.cn/), where I completed my Final-Year-Project advised by [Prof. Zhang Yunfeng](https://cde.nus.edu.sg/me/staff/zhang-yunfeng/). After that, I received my M.Sc degree from the [National University of Singapore](https://nus.edu.sg) in June 2022.
+As for my education background, I graduated from [Chongqing University](https://www.cqu.edu.cn/) (project 985) with a B.Eng degree in Mechanical Engineering. In year 4, I participated in an exchange programme to study at the [National University of Singapore (Suzhou) Research Institute](http://en.nusri.cn/), where I completed my Final-Year-Project advised by [Prof. Zhang Yunfeng](https://cde.nus.edu.sg/me/staff/zhang-yunfeng/). I received my M.Sc degree from the [National University of Singapore](https://nus.edu.sg) in June 2022.
 
-I am now doing research under the guidance of [Prof. Ernesto Damiani](https://www.ku.ac.ae/academics/college-of-engineering/department/department-of-electrical-engineering-and-computer-science/people/prof-ernesto-damiani), [Dr. Chan Yeob Yeun](https://www.ku.ac.ae/academics/college-of-engineering/department/department-of-electrical-engineering-and-computer-science/people/dr-chan-yeob-yeun), [Dr. Hussam Al Hamadi](https://www.ku.ac.ae/college-people/dr-hussam-al-hammadi), and [Dr. Fatma Taher](https://www.zu.ac.ae/main/en/colleges/colleges/__college_of_technological_innovation/faculty_and_staff/_profiles/Fatma_Taher.aspx) at [Center for Cyber-Physical Systems (C2PS)](https://www.ku.ac.ae/c2ps). I am now working in areas about spam  filtering using explainable AI.
+My research experience includes working at the [Centre for Smart Medical Technology of NUS research institute](http://en.nusri.cn/research/areas/amd/) supervised by [Prof. Ren Hongliang](https://cde.nus.edu.sg/bme/staff/dr-ren-hongliang/), during which period of time I participated in a National Key R&D project on Gastrointestinal Surgical Robot. After that, I have been working at the [NUS Advanced Robotics Centre](https://arc.nus.edu.sg/) supervised by [Prof. Ang Jr Marcelo](https://cde.nus.edu.sg/me/staff/ang-jr-marcelo-h/), in the realm of AI and human-robot collaboration.
 
 📖 Educations
 =========
