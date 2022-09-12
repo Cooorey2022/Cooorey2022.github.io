@@ -122,29 +122,6 @@ Yiwen Chen, **Zedong Zhang**, Sheng Guo, Lei Zhou, Xian Yao Ng, Marcelo Ang
 </div>
 </div>
 
-
-- *2022.08*: **Explainable Artificial Intelligence to Detect Image Spam Using Convolutional Neural Network** submitted to [**International Conference on Cyber Resilience (ICCR 2022)**](https://iccr.gaftim.com/), under review
-- *2022.08*: **Explainable Artificial Intelligence Applications in Cyber Security: State-of-the-Art in Research** submitted to **IEEE ACCESS**, accepted
-- *2022.07*: **New Late Multi-Modal Fusion Frameworks for Detecting Hybrid Spam E-mail** submitted to [**The 17th International Conference on Information Security Practice and Experience (ISPEC 2022)**](https://ispec2022.ndhu.edu.tw/), under review
-- *2022.06*: **Person Monitoring by Full Body Tracking in Uniform Crowd Environment** submitted to [**International Conference on Advances in Data-driven Computing and Intelligent Systems (ADCIS 2022)**](https://www.adcis22.scrs.in/), accepted
-
-✨ Technical Skills
-================
-
-***
-
-- **Programming Languages**: 
-  - Python, C/C++, SQL, MATLAB\...
-- **Script Tools/Text Editor/Management Tools:**
-  - Shell, Vim, Git, Latex, Office
-- **Language:**
-  - Mandarin (Native)
-  - English (IELTS: 7.5, W: 6.5, R: 9.0, L: 8.0, S:6.5)
-  - Japanese (Beginner)
-- **Media Processing:**
-  - Adobe PR, Adobe PS
-
-
 ⌨ Projects
 ========
 
