@@ -1,0 +1,12 @@
+Modeling, Analysis and Control of a Gastrointestinal Endoscopic Surgical Robot with Tunable Stiffness
+
+Abstract— Gastrointestinal endoscopic surgery (GES) can be performed more accurately and safely by utilizing a dexterous and variable-stiffness instrument. 
+In this work, we develop a cable-driven gastrointestinal endoscopic surgical robot, called GESR, with a novel tunable stiffness mechanism. The GESR system 
+consists of a cable-driven manipulator with tunable stiffness mechanism, a transmission with tendon-sheath mechanism and a compact driver with modular
+design. The kinematics and stiffness mechanism are modeled in detail. To solve the stiffnessrelative hysteresis in practice, we propose a novel stiffnessdep-
+endent modified generalized Prandtl-Ishlinskii (MGPI) model to establish the real input-output relationship, and design a control strategy based on the MGPI
+model. In experiments, we firstly apply the above models in real robot control, which improves the control accuracy significantly. Then, we test the dynamic 
+response and positioning repeatability of the manipulator at different stiffness conditions to prove the feasibility of the tunable stiffness mechanism.
+
+Index Terms— Gastrointestinal endoscopic surgery, Gastrointestinal endoscopic surgical robot, Tunable stiffness, Dexterity, 
+Natural orifice transluminal endoscopic surgery, NOTES
