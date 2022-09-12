@@ -85,7 +85,7 @@ Huxin Gao, **Zedong Zhang**, Liyang Lin, Changsheng Li, Xiao Xiao, Liang Qiu, Xi
 </div>
 
 # 📝 Submitted Papers
-<div class='paper-box'><div class='paper-box-image'><div></div><img src='images/firl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/firl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## A Versatile Agent for Fast Learning From Human Instructor
@@ -95,6 +95,21 @@ Yiwen Chen, **Zedong Zhang**, Haofeng Liu, Jiayi Tan, Chee-Meng Chew, Marcelo An
 #### Submitted for AAAI 2023
 ### [PDF📃](https://arxiv.org/pdf/2203.00251)
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div></div><img src='images/firl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Modeling, Analysis and Control of a Gastrointestinal Endoscopic Surgical Robot with Tunable Stiffness
+
+Yiwen Chen, **Zedong Zhang**, Haofeng Liu, Jiayi Tan, Chee-Meng Chew, Marcelo Ang
+  
+#### Submitted for AAAI 2023
+### [PDF📃](https://arxiv.org/pdf/2203.00251)
+
+</div>
+</div>
 
 - *2022.08*: **Explainable Artificial Intelligence to Detect Image Spam Using Convolutional Neural Network** submitted to [**International Conference on Cyber Resilience (ICCR 2022)**](https://iccr.gaftim.com/), under review
 - *2022.08*: **Explainable Artificial Intelligence Applications in Cyber Security: State-of-the-Art in Research** submitted to **IEEE ACCESS**, accepted
