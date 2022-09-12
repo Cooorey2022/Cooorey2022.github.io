@@ -32,58 +32,52 @@ My research experience includes working at the [Centre for Smart Medical Technol
 
 -   ---------------------------------------------------- -------------------------
 
-> ### **Northwestern Polytechnical University**   📅 **[Sep 2017 -- Jun 2021]**
+> ### **National University of Singapore**   📅 **[Aug 2021 -- June 2022]**
 >
->  Bachelor of Science in **Mechatronic Engineering** (with honor)
+>  Master of Science in **Mechanical Engineering**
 
 ---------------------------------------------------- -------------------------
 
-- **Academic Grades:**
-
-  **GPA:** 85.38/100   
+- **Academic Grades:**    *GPA:* 4.83/5.0 (Top 3/147)   
   
-- *Courses:**  C Programming, Linear Algebra, Probability Theory and Mathematical Statistics, Electronic Systems Modeling and Simulation and others.
+- **Courses:**  Neural Networks, Machine Vision, Linear System, Engineering Materials in Medicine, Engineering Acoustics, etc.
 
 
 -   ---------------------------------------------------- -------------------------
 
-> ### **National University of Singapore Suzhou Institute**   📅 **[Sep 2020 -- Jun 2021]**
+> ### **National University of Singapore (Suzhou) Research Institute**   📅 **[Sep 2020 -- June 2021]**
+> 
+>  yr-4 exchange study in **Mechanical Engineering**
 
 ---------------------------------------------------- -------------------------
 
-- **Academic Grades:**
-
-  **GPA:** 89.42/100   
+- **Academic Grades:** *GPA:* 90.44/100 (Top 5/110)   
   
-- *Courses:**  Modern Control System, Microsystems Design and Applications and Fundamentals of Product Design and Development.
-
-- **Project:** Modeling of Human Navigation Behavior Using Reinforcement Learning.
+- **Courses:**  Robot Mechanics and Control, Modern Control System, Automation in Manufacturing, Numerical Methods in Engineering, etc.
 
 -   ---------------------------------------------------- -------------------------
 
-> ### **Khalifa University**   📅 **[Sep 2021 -- Jun 2023 (expected)]**
+> ### **Chongqing University**   📅 **[Sep 2017 -- June 2020]**
 >
->  Master of Science in **Electrical and Computer Engineering**
+>  Bachelor of Engineering in **Mechanical Engineering**
 
 ---------------------------------------------------- -------------------------
 
-- **Academic Grades:**
-
-  **GPA:** 3.78/4.0  
+- **Academic Grades:** *GPA:* 84.5/100  
   
-- **Courses:**  Advanced Linear Systems, Advanced Operating Systems, Data Science, Advanced Computer Network, Deep Learning System Design and Simulation and 8 others.
+- **Courses:**  Classical Mechanics, Mechanical Design, Theory of Machines and Mechanisms, Mechanics of Materials, etc.
 
-- **Project:** Suspicious Spam Filtering Using Explainable Artificial Intelligence.
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2022</div><img src='images/XAIcybersecurity.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/RSJ IROS 2022</div><img src='images/gesr.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## [Explainable Artificial Intelligence Applications in Cyber Security: State-of-the-Art in Research](https://arxiv.org/ftp/arxiv/papers/2208/2208.14937.pdf) 
+## GESRsim: Gastrointestinal Endoscopic Surgical Robot Simulator
 
-**Zhibo Zhang**, Hussam Hamadi, Ernesto Damiani, Chan Yeob Yeun, Fatma Taher
-
+Huxin Gao, **Zedong Zhang**, Liyang Lin, Changsheng Li, Xiao Xiao, Liang Qiu, Xiaoxiao Yang, Ruoyi Hao, Xiuli Zuo, Yanqing Li, Hongliang Ren 
+  
 #### IEEE Access 2022
 
 ### [PDF📃](https://arxiv.org/ftp/arxiv/papers/2208/2208.14937.pdf)  [Project Page🔗](https://ieeexplore.ieee.org/document/9875264)
