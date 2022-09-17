@@ -136,8 +136,8 @@ Yiwen Chen, Sheng Guo, **Zedong Zhang**, Lei Zhou, Xian Yao Ng, Marcelo Ang
 - Key research project of Ministry of Science and Technology of China under Grant 2018YFB1307700, advised by Prof. Ren Hongliang (NUS). 
 - Participated in the design and development of the manipulators and actuation module of a novel gastrointestinal
 surgical robot (GESR) system. Specifically, we designed several **cable-driven, 3.5mm-diameter robot manipulators**, which are flexible serial robots of 6 DoFs that can work inside an endoscopic platform. The salient innovation is the achievement of **tunable joint stiffness**.
-- We developed a robot simulator for our GESR as a subproject. The simulator is based on **Coppeliasim**, which contains full CAD models and kinematics. Besides, we designed canonical surgical training scenes with the help of professional surgeons. We endowed the simulator with novel control strategies (**visual servoing, DRL**) to prove its potential as an algorithm development platform. It is the first GESR simulator.
-***
+- We developed a robot simulator for our GESR as a subproject. The simulator is based on **Coppeliasim**, which contains full CAD models and kinematics. Besides, we designed canonical surgical training scenes with the help of professional surgeons. We endowed the simulator with novel control strategies (**visual servoing, DRL**) to prove its potential as an algorithm development platform. It is also the first GESR simulator.
+
 
 ###  **Pre-trained Models in Human-Robot Collaboration**        
 
