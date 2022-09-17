@@ -178,7 +178,7 @@ surgical robot (GESR) system. Specifically, we designed several **cable-driven, 
 
 - Undergraduate Final-Year-Project,  advised by Prof. Zhang Yunfeng (NUS).
 - Studied a novel approach in solving combinatorial optimization problem using deep reinforcement learning algorithm. The method is based on Pointer Networks and can achieve a performance commensurate with SOTA conventional methods.
-***
+
 
 🏆 Honors and Awards
 ======
