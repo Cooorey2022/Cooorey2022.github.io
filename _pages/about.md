@@ -25,7 +25,7 @@ My name is Zedong Zhang, a junior researcher focuses on Robotics and AI. I curre
 
 As for my education background, I graduated from [Chongqing University](https://www.cqu.edu.cn/) (project 985) with a B.Eng degree in Mechanical Engineering. In year 4, I participated in an exchange programme to study at the [National University of Singapore (Suzhou) Research Institute](http://en.nusri.cn/), where I completed my Final-Year-Project advised by [Prof. Zhang Yunfeng](https://cde.nus.edu.sg/me/staff/zhang-yunfeng/). I received my M.Sc degree from the [National University of Singapore](https://nus.edu.sg) in June 2022.
 
-My research experience includes working at the [Centre for Smart Medical Technology of NUS research institute](http://en.nusri.cn/research/areas/amd/) supervised by [Prof. Ren Hongliang](https://cde.nus.edu.sg/bme/staff/dr-ren-hongliang/), during which period of time I participated in a National Key R&D project on Gastrointestinal Surgical Robot. After that, I have been working at the [NUS Advanced Robotics Centre](https://arc.nus.edu.sg/) supervised by [Prof. Ang Jr Marcelo](https://cde.nus.edu.sg/me/staff/ang-jr-marcelo-h/), in the realm of AI and human-robot collaboration.
+My research experience includes working at the [Centre for Smart Medical Technology of NUS research institute](http://en.nusri.cn/research/areas/amd/) supervised by [Prof. Ren Hongliang](https://cde.nus.edu.sg/bme/staff/dr-ren-hongliang/), during which period of time I participated in a National Key R&D project on Gastrointestinal Surgical Robot. After that, I have been working at the [NUS Advanced Robotics Centre](https://arc.nus.edu.sg/) supervised by [Prof. Ang Jr Marcelo](https://cde.nus.edu.sg/me/staff/ang-jr-marcelo-h/), in the realms of AI and human-robot collaboration.
 
 📖 Educations
 =========
@@ -76,7 +76,7 @@ My research experience includes working at the [Centre for Smart Medical Technol
 
 ## GESRsim: Gastrointestinal Endoscopic Surgical Robot Simulator
 
-Huxin Gao, **Zedong Zhang**, Liyang Lin, Changsheng Li, Xiao Xiao, Liang Qiu, Xiaoxiao Yang, Ruoyi Hao, Xiuli Zuo, Yanqing Li, Hongliang Ren 
+Huxin Gao, **Zedong Zhang** (co-first author), Liyang Lin, Changsheng Li, Xiao Xiao, Liang Qiu, Xiaoxiao Yang, Ruoyi Hao, Xiuli Zuo, Yanqing Li, Hongliang Ren 
   
 #### Accepted by IEEE/RSJ IROS 2022
 ### <a href="_pages/GESRsim.pdf" download>PDF📃</a>
@@ -88,11 +88,11 @@ Huxin Gao, **Zedong Zhang**, Liyang Lin, Changsheng Li, Xiao Xiao, Liang Qiu, Xi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/firl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## A Versatile Agent for Fast Learning From Human Instructor
+## A Versatile Agent for Fast Learning From Human Instructors
 
-Yiwen Chen, **Zedong Zhang**, Haofeng Liu, Jiayi Tan, Chee-Meng Chew, Marcelo Ang
+Yiwen Chen, **Zedong Zhang** (co-first author), Haofeng Liu, Jiayi Tan, Chee-Meng Chew, Marcelo Ang
   
-#### Submitted for AAAI 2023
+#### Submitted for AAAI 2023, under review
 ### [PDF📃](https://arxiv.org/pdf/2203.00251)
 
 </div>
@@ -105,6 +105,7 @@ Yiwen Chen, **Zedong Zhang**, Haofeng Liu, Jiayi Tan, Chee-Meng Chew, Marcelo An
 
 Huxin Gao, Ruoyi Hao, Changsheng Li, Xiao Xiao, Xiaoxiao Yang, Liang Qiu, **Zedong Zhang**, Xiuli Zuo, Yanqing Li, Hongliang Ren 
   
+#### Under review  
 ### <a href="images/gesr_abstract.txt" download>Abstract📃</a>
 
 </div>
@@ -115,8 +116,9 @@ Huxin Gao, Ruoyi Hao, Changsheng Li, Xiao Xiao, Xiaoxiao Yang, Liang Qiu, **Zedo
 
 ## Economical Precise Manipulation and Auto Eye-Hand Coordination with Binocular Visual Reinforcement Learning
 
-Yiwen Chen, **Zedong Zhang**, Sheng Guo, Lei Zhou, Xian Yao Ng, Marcelo Ang 
+Yiwen Chen, Sheng Guo, **Zedong Zhang**, Lei Zhou, Xian Yao Ng, Marcelo Ang 
   
+#### Under review 
 ### [PDF📃](https://arxiv.org/pdf/2205.05963)
 
 </div>
@@ -125,83 +127,103 @@ Yiwen Chen, **Zedong Zhang**, Sheng Guo, Lei Zhou, Xian Yao Ng, Marcelo Ang
 ⌨ Projects
 ========
 
-###  **Suspicious Spam and Malware Filtering Using Explainable Artificial Intelligence**        
+###  **Key Technologies and Systems of Gastrointestinal Endoscopic Minimally Invasive Surgical Robot**        
 
-> ***Python, LIME, SHAP*** 
+> ***Gastrointestinal Endoscopic Surgery, Natural Orifice Transluminal Endoscopic Surgical Robot*** 
 >
-> **Feb 2022 - May 2023(expected)**
+> **Dec 2021 - Feb 2022**
 
-- Realize the filtering of suspicious spam messages in Internet using **explainable AI**. Different Machine Learning and Deep Learning algorithms including **CNN, Decision Tree, Random Forest** would be deployed whereas explainable approaches including **LIME** and **SHAP** would be utilized to provide good explanations for generated decisions.
+- Key research project of Ministry of Science and Technology of China under Grant 2018YFB1307700, advised by Prof. Ren Hongliang (NUS). 
+- Participated in the design and development of the manipulators and actuation module of a novel gastrointestinal
+surgical robot (GESR) system. Specifically, we designed several **cable-driven, 3.5mm-diameter robot manipulators**, which are flexible serial robots of 6 DoFs that can work inside an endoscopic platform. The salient innovation is the achievement of **tunable joint stiffness**.
+- We developed a robot simulator for our GESR as a subproject. The simulator is based on **Coppeliasim**, which contains full CAD models and kinematics. Besides, we designed canonical surgical training scenes with the help of professional surgeons. We endowed the simulator with novel control strategies (**visual servoing, DRL**) to prove its potential as an algorithm development platform. It is the first GESR simulator.
+***
+
+###  **Pre-trained Models in Human-Robot Collaboration**        
+
+> ***Reinforcement Learning, Interactive Task Learning*** 
+>
+> **Aug 2021 - May 2022**
+
+- Master's Final-Year-Project, advised by Prof. Ang Jr Marcelo (NUS).
+- We designed an algorithm for intelligent agents that can achieve **few-shot learning from human instructors** (demonstrations). This work is based on the idea of policy reuse. We adopted a **hierarchical policy structure**, and promoted learning efficiency through observation minimization and reward-augmented imitation learning. In this way, we achieved one-shot learning on a multi-stage task in mini-grid environment, with a success rate of 94%.
 
 ***
 
-###  **Person Monitoring by Full Body Tracking in Uniform Crowd Environment**        
+###  **Binocular Visual Alignment using Reinforcement Learning**        
 
-> ***Python, Deep Learning, Body Tracking*** 
+> ***Visual Servoing, Reinforcement Learning, Machine Vision***       
 >
-> **Feb 2022 - June 2022**
+> **Jan 2022 - Sep 2021**
 
-- Uniform Crowd Environment was established in the Computer Vision Lab of Khalifa University. A large number of videos including people wearing the traditional uniforms of the middle east were shotted and collected. Annotations were done on the platform of [Computer Vision Annotation Tool(CVAT)]( https://cvat.org/). The conventional Deep Learning-based tracker **STARK** was implemented to track people in the uniform crowd. And the **refined tracker** adapted to the crowd environment was also implemented to track people and compared with the conventional tracker.
+- We designed an algorithm for learning alignment manipulation tasks, e.g., screw insertion, using binocular vision. We refer to a lines alignment control law in binocular images to avoid the calculation of depth information. We validated our approach on a dual arm KINOVA MOVO robot and achieve a success rate over 90%.
 
 ***
 
-###  **Modeling of Human Navigation Behavior Using Reinforcement Learning**        
+###  **Approximate Nearest Neighbor Search in Q-learning**        
 
-> ***Python, Reinforcement Learning***       
+> ***Reinforcement Learning, Non-parametric Learning, Episodic Control***       
 >
-> **Oct 2020 - May 2021**
+> **Apr 2022 - Present**
 
--    Simple modeling of human behavior reacting to **moving obstacles** in an indoor environment.
+- We intend to promote the performance of non-parametric Learning, e.g., episodic control, by introducing novel ANN search method. Additionally, we employ contrastive learning algorithm for better embedding. Our method can separate working memory from long term memory, i.e., relax the need to update the full gamut of parameters every iteration.
 
--    The original video was gained from **Suzhou Center Mall** and the annotations were done in [Computer Vision Annotation Tool(CVAT)]( https://cvat.org/).
--   **Q-Learning** algorithm of **Reinforcement Learning** was utilized to model target human’s behavior.
+***
 
+###  **Machine Learning in Solving the Vehicle Routing Problem**        
+
+> ***Machine Learning, Combinatorial Optimization, VRP***       
+>
+> **Sep 2020 - Apr 2021**
+
+- Undergraduate Final-Year-Project,  advised by Prof. Zhang Yunfeng (NUS).
+- Studied a novel approach in solving combinatorial optimization problem using deep reinforcement learning algorithm. The method is based on Pointer Networks and can achieve a performance commensurate with SOTA conventional methods.
 ***
 
 🏆 Honors and Awards
 ======
 
-- Mater of Research and Teaching Scholarship, Khalifa University, Sep 2021
-- Outstanding Undergraduate Scholarship of NPU; Dec 2019, Dec 2020
-- First Class Outstanding Undergraduate Scholarship of NPU; Dec 2018
+- Award of Outstanding Student, NUS Research Institute, June 2021
+- Certificate of Merit, EMdeIC Global 2021, Nov 2021
 
 💻 Experiences
 ==========
 
 -   ------------------------------------------------ -------------------------
 
-> ### **Graduate Record Examinations (GRE)** 
+> ### **RA at National University of Singapore** 
 >
-> > **Apr 2021**
+> > **May 2022 - Present**
 >
 
-- Verbal: 156; Quantitative: 170; Writing: 3.0.
+- Advanced Robotics Centre, Collab-AI, supervised by Prof. Ang Marcelo.
+- Participated in researches regarding human robot collaboration and reinforcement learning (see Project Sec.).
 
 ***
 
-> ### **Teaching Assistant work at Khalifa University**     
+> ### **RA at National University of Singapore (Suzhou) Research Institute**  
 >
-> > **Sep 2021 -- Feb 2022**
->
-> > ***Teaching Assistant of undergraduate course Introduction to Computing Using MATLAB(ENGR133)***
-> >
-> > ***Instructor: Dr. Jamal Alsawalhi***
+> > **Dec 2020 -- July 2021**
+- Centre for Smart Medical Technology, supervised by Prof. Ren Hongliang.
+- Participated in national key research project on Gastrointestinal Endoscopic Surgical Robot (see Project sec.).
 
+***
+
+> > ***R & D Engineer at Robert Bosch GmbH***
+>
+> > **July 2019 -  Sep 2019**
+- Bosch Thermal Technology, R & D Dept.
+- Completed a benchmark project on novel products. Conducted evaluation for the performance including flue-gas analysis, determination of energy efficiency, noise measuring, low temperature resistance, etc.
+
+***
+
+> > ***R & D Engineer at Cooper Standard Automotive Inc.***
+>
+> > **July 2018 -  Sep 2018**
+- R & D Dept, Fluid group.
+- Analysis and design of vehicle pipeline system using CAD software.
+
+***
 ----
-<!-- <div class="footer">
-    <div class="row">
-          <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=91g_Uih-7fadH9madF_Vex1LQXOVlduL5aeBBSKXgXA"></script>
-    </div>
-</div> -->
-<div class="footer">
-    <div class="center">
-        <a><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=m&d=91g_Uih-7fadH9madF_Vex1LQXOVlduL5aeBBSKXgXA&co=2d78ad&ct=ffffff" /></a>
-    </div>
-</div>
 
-
-
-
----
-Zhibo Zhang
 
