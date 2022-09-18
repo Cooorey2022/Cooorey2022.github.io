@@ -226,4 +226,10 @@ surgical robot (GESR) system. Specifically, we designed several **cable-driven, 
 ***
 ----
 
+English Proficiency
+======
+
+- IELTS: Overall - 7.5, Listening - 8.5, Reading - 9.0, Speaking - 7.0, Writing - 6.0.
+
+
 
